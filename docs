@@ -1,1 +1,21 @@
 
+1. System Objectives- We are developing this project to solve 
+the problem of our identified stakeholders, specifically;
+    >Customers- customer rely on scattered platform to look
+    for reliable and trustworthy flowershops. To solve this problem 
+    we are making this project to help them find their preferred
+    flowers.
+    > Owners- flower shop owners are facing difficulty on how customers will
+    find or discover their flower shops. they also want to have a platform
+    that will showcase their products. That is why this system has a purpose
+    to showcase their product and also monitor their sales and connect
+    with the customers.
+    >Florist- not all florist has flower shops, and florists also want to showcase 
+    the product they have even they don't have physical store, with this
+    platform they will be able to do it.
+
+2. Proposed Scope- The scope of this project is for ordering,tracking of order, managing the sales
+for the sellers, creating reports, and managing users for the admin, however this 
+project will not integarate payment gateway.
+3. Stakeholers- The identified stakeholders are the customer, flower shop oweners and florists.
+4. Tools- we are expecting to use framework(react), database (firebase)

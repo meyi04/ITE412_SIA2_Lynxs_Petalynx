@@ -5,7 +5,7 @@ Hello, We are the Team Lynxs of BSIT IV F3
 
 Our Title is "Petalynx"
 
-Team Members:
+# Team Members:
 Project Leader- Arjay Basconcillo
 Project Presenter-Kieth U. Mendizabal
 Project Documenter-Trecia mae. M Gandia
@@ -44,6 +44,27 @@ Enter the Cloned Repository
 
 Move into the newly created project folder to start working:
 
+# High-Level System Overview
+1. Major Modules / Subsystems
+User Management Module
+Handles user registration, authentication, profile management, and account security for customers, shop owners, and administrators.
+Flower Catalog Management Module
+Allows shop owners to upload, update, and manage flower products available in their stores. Customers can browse and search available flowers.
+Order and Payment Management Module
+Processes customer orders, tracks order status, records transactions, and manages payment information.
+Administrative Management Module
+Enables administrators to manage users, monitor transactions, generate reports, and oversee system operations.
+
+2. External Systems / Interfaces
+Firebase Authentication
+Used for secure user login and authentication.
+Firebase Firestore Database
+Stores customer data, flower listings, orders, payment records, and system information.
+Payment Gateway (Future Integration)
+Can be integrated with GCash, Maya, or other online payment services for secure transactions.
+
+3. Data Flow Summary
+Customers access Petalynx to browse flower products, place orders, and make payments. Shop owners upload and manage flower listings and process customer orders. All transaction, user, and product information is stored in Firebase Firestore. Administrators monitor system activities, manage users and shops, and generate reports. Data continuously flows between users, system processes, and databases to ensure accurate order processing and inventory management.
 
 # Integration Pattern Overview
 

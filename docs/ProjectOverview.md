@@ -6,7 +6,7 @@ Hello, We are the Team Lynxs of BSIT IV F3
 Our Title is "Petalynx"
 
 Team Members:
-Project Leader-
+Project Leader- Arjay Basconcillo
 Project Presenter-Kieth U. Mendizabal
 Project Documenter-Trecia mae. M Gandia
 Project Diagrammer- Mike Jayson C. Ordonio
@@ -45,7 +45,7 @@ Enter the Cloned Repository
 Move into the newly created project folder to start working:
 
 
-Integration Pattern Overview
+# Integration Pattern Overview
 
 Hub and Spoke
 
